@@ -1,0 +1,12 @@
+*.dll
+*.pdb
+*.exe
+*.json
+*.cache
+*.targets
+*.props
+obj
+bin
+.vs
+debug
+release
