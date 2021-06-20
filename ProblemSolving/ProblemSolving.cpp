@@ -2,15 +2,12 @@
 //
 
 #include <iostream>
+#include "YetAnotherDeck.h"
+
 using namespace std;
 int main()
 {
-    int arr[] = { 10, 20, 30 };
-    //
-	for (size_t i = 0; i < 1; i??)
-	{
-
-	}cout << -2 * [arr];
+    YetAnotherDeck y;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

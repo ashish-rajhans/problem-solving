@@ -6,7 +6,7 @@ namespace DotNetSolutions
     {
         static void Main(string[] args)
         {
-            NotAdjacentMatrix polycarp = new NotAdjacentMatrix();
+            YetAnotherDeck polycarp = new YetAnotherDeck();
         }
     }
 }

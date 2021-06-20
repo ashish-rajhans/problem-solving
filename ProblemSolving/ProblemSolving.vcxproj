@@ -141,6 +141,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ProblemSolving.cpp" />
+    <ClCompile Include="YetAnotherDeck.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="YetAnotherDeck.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
